@@ -10,18 +10,21 @@ A Chrome extension to manage and copy profile links/text dynamically. Users can 
 - Save profile links/text using Chrome's `chrome.storage` API
 - Simple and clean user interface
 
+## Screenshot
+![Screenshot of Extension](./Screenshot.png)
+
 ## Installation
 
 ### Install from Source
 
 1. **Clone the repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/smitkevadiya50/dynamic-text-saver-extension.git
-   \`\`\`
+   ```
 2. **Navigate to the project directory:**
-   \`\`\`bash
+   ```bash
    cd dynamic-text-saver-extension
-   \`\`\`
+   ```
 
 3. **Load the Extension in Chrome:**
    - Open Chrome and go to \`chrome://extensions/\`.
