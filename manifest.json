@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Dynamic Profile Links",
+    "version": "1.0",
+    "description": "A Chrome extension to manage and copy profile links.",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "storage"
+    ]
+  }
+  
